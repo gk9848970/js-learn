@@ -1,0 +1,77 @@
+{
+    "dashboard": {
+      "user": "Gaurav",
+      "age": 24
+    },
+    "articles": [
+        {
+          "userId": 1,
+          "id": 1,
+          "title": "Gaurav how are you",
+          "category": "sports"
+        },
+        {
+          "userId": 1,
+          "id": 2,
+          "title": "sunt qui excepturi placeat culpa",
+          "category": "stocks"
+        },
+        {
+          "userId": 2,
+          "id": 3,
+          "title": "omnis laborum odio",
+          "category": "stocks"
+        },
+        {
+          "userId": 2,
+          "id": 4,
+          "title": "non esse culpa molestiae omnis sed optio",
+          "category": "stocks"
+        },
+        {
+          "userId": 3,
+          "id": 5,
+          "title": "eaque aut omnis a",
+          "category": "stocks"
+        },
+        {
+          "userId": 3,
+          "id": 6,
+          "title": "natus impedit quibusdam illo est",
+          "category": "sports"
+        },
+        {
+          "userId": 4,
+          "id": 7,
+          "title": "quibusdam autem aliquid et et quia",
+          "category": "stocks"
+        }
+    ],
+
+    "posts": [
+        {
+            "price": 100000,
+            "id": 1,
+            "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+            "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+        },
+        {
+            "price": 200,
+            "id": 2,
+            "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+            "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+        },
+        {
+            "price": 300,
+            "id": 3,
+            "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+            "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+        },
+        {
+            "price": 400,
+            "id": 4,
+            "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+            "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+        }
+    ]
+}
